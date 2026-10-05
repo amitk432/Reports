@@ -1,0 +1,117 @@
+# Source index for the ICU family review
+Prepared 5 October 2026. IDs refer to the local review inventory; they are not hospital identifiers.
+
+## Principal records
+- 001: [2 October evening laboratory panel (released 3 October)](</Users/amit/Downloads/👴 Papa/CLH/Mr_ram_kewal_mahato_2273_214660_178371882026_10_02_05_26_02_338_6_1819_134354864386743265_G.pdf>) - CLH/Mr_ram_kewal_mahato_2273_214660_178371882026_10_02_05_26_02_338_6_1819_134354864386743265_G.pdf
+- 004: [28 September haemogram](</Users/amit/Downloads/👴 Papa/CLH/PHOTO-2026-10-03-20-40-29(1).jpg>) - CLH/PHOTO-2026-10-03-20-40-29(1).jpg
+- 006: [28 September CRP, blood gas and liver tests](</Users/amit/Downloads/👴 Papa/CLH/PHOTO-2026-10-03-20-40-31(1).jpg>) - CLH/PHOTO-2026-10-03-20-40-31(1).jpg
+- 010: [28 September kidney tests](</Users/amit/Downloads/👴 Papa/CLH/PHOTO-2026-10-03-20-40-59(1).jpg>) - CLH/PHOTO-2026-10-03-20-40-59(1).jpg
+- 012: [28 September ammonia](</Users/amit/Downloads/👴 Papa/CLH/PHOTO-2026-10-03-20-41-00(1).jpg>) - CLH/PHOTO-2026-10-03-20-41-00(1).jpg
+- 014: [29 September PT/INR](</Users/amit/Downloads/👴 Papa/CLH/PHOTO-2026-10-03-20-41-02(1).jpg>) - CLH/PHOTO-2026-10-03-20-41-02(1).jpg
+- 020: [28 September CT head - page 1](</Users/amit/Downloads/👴 Papa/CLH/PHOTO-2026-10-03-20-41-11(1).jpg>) - CLH/PHOTO-2026-10-03-20-41-11(1).jpg
+- 022: [28 September CT head - impression](</Users/amit/Downloads/👴 Papa/CLH/PHOTO-2026-10-03-20-41-12(1).jpg>) - CLH/PHOTO-2026-10-03-20-41-12(1).jpg
+- 024: [29 September echo - impression; suspected mitral vegetation; TEE advised](</Users/amit/Downloads/👴 Papa/CLH/PHOTO-2026-10-03-20-41-17(1).jpg>) - CLH/PHOTO-2026-10-03-20-41-17(1).jpg
+- 025: [29 September echo - measurements](</Users/amit/Downloads/👴 Papa/CLH/PHOTO-2026-10-03-20-41-17(2).jpg>) - CLH/PHOTO-2026-10-03-20-41-17(2).jpg
+- 027: [30 September MRI brain](</Users/amit/Downloads/👴 Papa/CLH/PHOTO-2026-10-03-20-41-17(4).jpg>) - CLH/PHOTO-2026-10-03-20-41-17(4).jpg
+- 030: [30 September procalcitonin](</Users/amit/Downloads/👴 Papa/CLH/PHOTO-2026-10-03-20-41-18(1).jpg>) - CLH/PHOTO-2026-10-03-20-41-18(1).jpg
+- 032: [30 September kidney tests](</Users/amit/Downloads/👴 Papa/CLH/PHOTO-2026-10-03-20-41-19(1).jpg>) - CLH/PHOTO-2026-10-03-20-41-19(1).jpg
+- 039: [30 September haemogram](</Users/amit/Downloads/👴 Papa/CLH/PHOTO-2026-10-03-20-41-20(4).jpg>) - CLH/PHOTO-2026-10-03-20-41-20(4).jpg
+- 065: [Handwritten inpatient summary; includes 1 October blood/urine entries](</Users/amit/Downloads/👴 Papa/CLH/PHOTO-2026-10-03-20-41-25(1).jpg>) - CLH/PHOTO-2026-10-03-20-41-25(1).jpg
+- 068: [2 October morning haemogram](</Users/amit/Downloads/👴 Papa/CLH/PHOTO-2026-10-03-20-41-25(4).jpg>) - CLH/PHOTO-2026-10-03-20-41-25(4).jpg
+- 071: [2 October morning kidney tests](</Users/amit/Downloads/👴 Papa/CLH/PHOTO-2026-10-03-20-41-26(1).jpg>) - CLH/PHOTO-2026-10-03-20-41-26(1).jpg
+- 074: [2 October morning CRP](</Users/amit/Downloads/👴 Papa/CLH/PHOTO-2026-10-03-20-41-26(4).jpg>) - CLH/PHOTO-2026-10-03-20-41-26(4).jpg
+- 077: [3 October medication chart](</Users/amit/Downloads/👴 Papa/CLH/PHOTO-2026-10-03-20-41-28(1).jpg>) - CLH/PHOTO-2026-10-03-20-41-28(1).jpg
+- 079: [3 October kidney tests (photo dated 4 October)](</Users/amit/Downloads/👴 Papa/CLH/PHOTO-2026-10-04-12-02-55(1).jpg>) - CLH/PHOTO-2026-10-04-12-02-55(1).jpg
+- 080: [3 October haemogram (photo dated 4 October)](</Users/amit/Downloads/👴 Papa/CLH/PHOTO-2026-10-04-12-02-55.jpg>) - CLH/PHOTO-2026-10-04-12-02-55.jpg
+- 084: [8 August labs](</Users/amit/Downloads/👴 Papa/📄 Documents/Blood Test 08 August.pdf>) - 📄 Documents/Blood Test 08 August.pdf
+- 086: [27 June pus culture, reported 29 June](</Users/amit/Downloads/👴 Papa/📄 Documents/RAM KEWAL MAHATO 16423.pdf>) - 📄 Documents/RAM KEWAL MAHATO 16423.pdf
+- H047: [5 June nephrology: CKD G5 on maintenance dialysis](</Users/amit/Downloads/👴 Papa/📄 Documents/IMG_1727.HEIC>) - 📄 Documents/IMG_1727.HEIC
+- H048: [3 June nephrology: CKD G5 on maintenance dialysis](</Users/amit/Downloads/👴 Papa/📄 Documents/IMG_1728.HEIC>) - 📄 Documents/IMG_1728.HEIC
+- H070: [27 June left hip surgical-site infection review](</Users/amit/Downloads/👴 Papa/📄 Documents/IMG_1751.HEIC>) - 📄 Documents/IMG_1751.HEIC
+- H071: [Kidney biopsy: received 29 April; reported 6 May](</Users/amit/Downloads/👴 Papa/📄 Documents/Kidney Biopsy.heif>) - 📄 Documents/Kidney Biopsy.heif
+
+## Full CLH inventory
+Duplicates are exact byte-identical files. Other photographs may show the same clinical report from a different angle.
+- 001: CLH/Mr_ram_kewal_mahato_2273_214660_178371882026_10_02_05_26_02_338_6_1819_134354864386743265_G.pdf
+- 002: CLH/PHOTO-2026-10-03-20-40-28(1).jpg
+- 003: CLH/PHOTO-2026-10-03-20-40-28.jpg (exact duplicate of 002)
+- 004: CLH/PHOTO-2026-10-03-20-40-29(1).jpg
+- 005: CLH/PHOTO-2026-10-03-20-40-29.jpg (exact duplicate of 004)
+- 006: CLH/PHOTO-2026-10-03-20-40-31(1).jpg
+- 007: CLH/PHOTO-2026-10-03-20-40-31.jpg (exact duplicate of 006)
+- 008: CLH/PHOTO-2026-10-03-20-40-58(1).jpg
+- 009: CLH/PHOTO-2026-10-03-20-40-58.jpg (exact duplicate of 008)
+- 010: CLH/PHOTO-2026-10-03-20-40-59(1).jpg
+- 011: CLH/PHOTO-2026-10-03-20-40-59.jpg (exact duplicate of 010)
+- 012: CLH/PHOTO-2026-10-03-20-41-00(1).jpg
+- 013: CLH/PHOTO-2026-10-03-20-41-00.jpg (exact duplicate of 012)
+- 014: CLH/PHOTO-2026-10-03-20-41-02(1).jpg
+- 015: CLH/PHOTO-2026-10-03-20-41-02.jpg (exact duplicate of 014)
+- 016: CLH/PHOTO-2026-10-03-20-41-03(1).jpg
+- 017: CLH/PHOTO-2026-10-03-20-41-03.jpg (exact duplicate of 016)
+- 018: CLH/PHOTO-2026-10-03-20-41-09(1).jpg
+- 019: CLH/PHOTO-2026-10-03-20-41-09.jpg (exact duplicate of 018)
+- 020: CLH/PHOTO-2026-10-03-20-41-11(1).jpg
+- 021: CLH/PHOTO-2026-10-03-20-41-11.jpg (exact duplicate of 020)
+- 022: CLH/PHOTO-2026-10-03-20-41-12(1).jpg
+- 023: CLH/PHOTO-2026-10-03-20-41-12.jpg (exact duplicate of 022)
+- 024: CLH/PHOTO-2026-10-03-20-41-17(1).jpg
+- 025: CLH/PHOTO-2026-10-03-20-41-17(2).jpg
+- 026: CLH/PHOTO-2026-10-03-20-41-17(3).jpg (exact duplicate of 025)
+- 027: CLH/PHOTO-2026-10-03-20-41-17(4).jpg
+- 028: CLH/PHOTO-2026-10-03-20-41-17(5).jpg (exact duplicate of 024)
+- 029: CLH/PHOTO-2026-10-03-20-41-17.jpg (exact duplicate of 027)
+- 030: CLH/PHOTO-2026-10-03-20-41-18(1).jpg
+- 031: CLH/PHOTO-2026-10-03-20-41-18.jpg (exact duplicate of 030)
+- 032: CLH/PHOTO-2026-10-03-20-41-19(1).jpg
+- 033: CLH/PHOTO-2026-10-03-20-41-19(2).jpg (exact duplicate of 032)
+- 034: CLH/PHOTO-2026-10-03-20-41-19(3).jpg
+- 035: CLH/PHOTO-2026-10-03-20-41-19.jpg (exact duplicate of 034)
+- 036: CLH/PHOTO-2026-10-03-20-41-20(1).jpg (exact duplicate of 020)
+- 037: CLH/PHOTO-2026-10-03-20-41-20(2).jpg
+- 038: CLH/PHOTO-2026-10-03-20-41-20(3).jpg (exact duplicate of 020)
+- 039: CLH/PHOTO-2026-10-03-20-41-20(4).jpg
+- 040: CLH/PHOTO-2026-10-03-20-41-20(5).jpg (exact duplicate of 037)
+- 041: CLH/PHOTO-2026-10-03-20-41-20.jpg (exact duplicate of 039)
+- 042: CLH/PHOTO-2026-10-03-20-41-21(1).jpg (exact duplicate of 030)
+- 043: CLH/PHOTO-2026-10-03-20-41-21(2).jpg
+- 044: CLH/PHOTO-2026-10-03-20-41-21(3).jpg (exact duplicate of 022)
+- 045: CLH/PHOTO-2026-10-03-20-41-21(4).jpg (exact duplicate of 030)
+- 046: CLH/PHOTO-2026-10-03-20-41-21(5).jpg (exact duplicate of 043)
+- 047: CLH/PHOTO-2026-10-03-20-41-21.jpg (exact duplicate of 022)
+- 048: CLH/PHOTO-2026-10-03-20-41-22(1).jpg (exact duplicate of 025)
+- 049: CLH/PHOTO-2026-10-03-20-41-22(2).jpg (exact duplicate of 039)
+- 050: CLH/PHOTO-2026-10-03-20-41-22(3).jpg (exact duplicate of 025)
+- 051: CLH/PHOTO-2026-10-03-20-41-22(4).jpg (exact duplicate of 039)
+- 052: CLH/PHOTO-2026-10-03-20-41-22(5).jpg
+- 053: CLH/PHOTO-2026-10-03-20-41-22.jpg (exact duplicate of 052)
+- 054: CLH/PHOTO-2026-10-03-20-41-23(1).jpg
+- 055: CLH/PHOTO-2026-10-03-20-41-23(2).jpg (exact duplicate of 032)
+- 056: CLH/PHOTO-2026-10-03-20-41-23(3).jpg
+- 057: CLH/PHOTO-2026-10-03-20-41-23(4).jpg (exact duplicate of 054)
+- 058: CLH/PHOTO-2026-10-03-20-41-23(5).jpg (exact duplicate of 032)
+- 059: CLH/PHOTO-2026-10-03-20-41-23.jpg (exact duplicate of 056)
+- 060: CLH/PHOTO-2026-10-03-20-41-24(1).jpg
+- 061: CLH/PHOTO-2026-10-03-20-41-24(2).jpg
+- 062: CLH/PHOTO-2026-10-03-20-41-24(3).jpg (exact duplicate of 060)
+- 063: CLH/PHOTO-2026-10-03-20-41-24(4).jpg (exact duplicate of 061)
+- 064: CLH/PHOTO-2026-10-03-20-41-24.jpg
+- 065: CLH/PHOTO-2026-10-03-20-41-25(1).jpg
+- 066: CLH/PHOTO-2026-10-03-20-41-25(2).jpg
+- 067: CLH/PHOTO-2026-10-03-20-41-25(3).jpg (exact duplicate of 065)
+- 068: CLH/PHOTO-2026-10-03-20-41-25(4).jpg
+- 069: CLH/PHOTO-2026-10-03-20-41-25(5).jpg (exact duplicate of 066)
+- 070: CLH/PHOTO-2026-10-03-20-41-25.jpg (exact duplicate of 068)
+- 071: CLH/PHOTO-2026-10-03-20-41-26(1).jpg
+- 072: CLH/PHOTO-2026-10-03-20-41-26(2).jpg
+- 073: CLH/PHOTO-2026-10-03-20-41-26(3).jpg (exact duplicate of 072)
+- 074: CLH/PHOTO-2026-10-03-20-41-26(4).jpg
+- 075: CLH/PHOTO-2026-10-03-20-41-26(5).jpg (exact duplicate of 071)
+- 076: CLH/PHOTO-2026-10-03-20-41-26.jpg (exact duplicate of 074)
+- 077: CLH/PHOTO-2026-10-03-20-41-28(1).jpg
+- 078: CLH/PHOTO-2026-10-03-20-41-28.jpg (exact duplicate of 077)
+- 079: CLH/PHOTO-2026-10-04-12-02-55(1).jpg
+- 080: CLH/PHOTO-2026-10-04-12-02-55.jpg
+- 081: CLH/PHOTO-2026-10-04-17-24-34.jpg
+- 082: CLH/PHOTO-2026-10-04-17-24-57.jpg
+- 083: CLH/PHOTO-2026-10-04-17-25-44.jpg

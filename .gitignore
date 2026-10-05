@@ -1,0 +1,8 @@
+.DS_Store
+tmp/
+*.tmp
+*.log
+.tempmediaStorage/
+scratch/
+CLH/
+outputs/
