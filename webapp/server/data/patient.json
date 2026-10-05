@@ -1,0 +1,46 @@
+{
+  "name": "Papa (Mr. Ram Kumar)",
+  "age": 68,
+  "gender": "Male",
+  "bloodGroup": "B Positive",
+  "primaryDiagnosis": "Diabetic Chronic Kidney Disease Stage 5 (Dialysis Dependent) with Left Hip Prosthetic Joint Infection (Klebsiella pneumoniae), Severe Sepsis (PCT 11.16), Mitral Valve Infective Endocarditis (1.9 cm vegetation), and Cardioembolic Multi-Infarct Strokes",
+  "comorbidities": [
+    "Type 2 Diabetes Mellitus (Longstanding, 20+ years)",
+    "Systemic Hypertension",
+    "Post Left Total Knee / Hip Arthroplasty (Hardware In Situ)",
+    "Severe Anemia of Chronic Disease / Sepsis (Hb nadir 6.3 g/dL)",
+    "Severe Hypoalbuminemia (Albumin nadir 1.7 g/dL)"
+  ],
+  "criticalAlerts": [
+    {
+      "title": "Mitral Vegetation",
+      "value": "1.9 cm mobile mass",
+      "level": "critical",
+      "organ": "Heart"
+    },
+    {
+      "title": "Max Procalcitonin",
+      "value": "11.16 ng/mL (severe sepsis)",
+      "level": "critical",
+      "organ": "Bloodstream"
+    },
+    {
+      "title": "Max Serum Creatinine",
+      "value": "6.2 mg/dL (CKD Stage 5)",
+      "level": "critical",
+      "organ": "Kidney"
+    },
+    {
+      "title": "Pus Pathogen",
+      "value": "Klebsiella pneumoniae (MDR)",
+      "level": "critical",
+      "organ": "Left Hip"
+    },
+    {
+      "title": "Cerebral Lesions",
+      "value": "Bilateral Cardioembolic Infarcts",
+      "level": "critical",
+      "organ": "Brain"
+    }
+  ]
+}

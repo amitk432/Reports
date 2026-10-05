@@ -1,0 +1,147 @@
+[
+  {
+    "id": "INF-01",
+    "key": "hip",
+    "title": "Left Hip Prosthetic Joint Infection (Primary Focus)",
+    "anatomicalSite": "Left Hip Joint (Post-Total Arthroplasty)",
+    "coordinates": {
+      "x": -0.9,
+      "y": -0.4,
+      "z": 0.15
+    },
+    "cameraTarget": {
+      "x": -0.9,
+      "y": -0.4,
+      "z": 0.15
+    },
+    "cameraPosition": {
+      "x": -1.8,
+      "y": -0.2,
+      "z": 2.2
+    },
+    "pathogen": "Klebsiella pneumoniae",
+    "antibiogram": "MDR / ESBL producer; susceptible to Colistin & Tigecycline; resistant to fluoroquinolones, cephalosporins & beta-lactamase inhibitors",
+    "severity": "CRITICAL - SOURCE OF SEPSIS",
+    "cultureDate": "2026-06-27 (SilverStreak Hospital)",
+    "documentLink": "\ud83d\udcc4 Documents/SilverStreak Hospital/Microbiology/Pus_Culture_Report_2026-06-27.pdf",
+    "documentTitle": "Pus Culture Report (SilverStreak 2026-06-27)",
+    "description": "Persistent sinus tract with active purulent discharge over the lateral left hip surgical scar. Orthopedic hardware biofilm formation with bacterial seeding directly into deep femoral venous tributaries.",
+    "clinicalImpact": "Continuous bacterial discharge served as the vascular launchpad for secondary systemic bacteremia, seeding both heart valves and systemic circulation."
+  },
+  {
+    "id": "INF-02",
+    "key": "vascular",
+    "title": "Systemic Vascular Bacteremia & Sepsis Highway",
+    "anatomicalSite": "Deep Femoral Vein \u2192 Inferior Vena Cava \u2192 Right Atrium",
+    "coordinates": {
+      "x": -0.2,
+      "y": 0.7,
+      "z": 0.1
+    },
+    "cameraTarget": {
+      "x": -0.1,
+      "y": 0.8,
+      "z": 0.0
+    },
+    "cameraPosition": {
+      "x": 0.0,
+      "y": 0.8,
+      "z": 2.5
+    },
+    "pathogen": "Klebsiella pneumoniae (Bloodstream Inoculation)",
+    "antibiogram": "Severe Endotoxemia & Pro-inflammatory Cytokine Surge",
+    "severity": "CRITICAL - LIFE THREATENING SEPSIS",
+    "cultureDate": "2026-05-23 (Peak Sepsis Biomarkers)",
+    "documentLink": "\ud83d\udcc4 Documents/SilverStreak Hospital/Lab_Reports/Lab_Report_2026-05-23.jpg",
+    "documentTitle": "Lab Report - PCT 11.16 ng/mL (SilverStreak 2026-05-23)",
+    "description": "Procalcitonin exploded to 11.16 ng/mL (normal < 0.05 ng/mL, > 220x baseline), CRP reached 88 mg/L, TLC elevated to 18,200/\u00b5L with 88% neutrophils.",
+    "clinicalImpact": "Bacterial endotoxins induced severe hemodynamic instability, vascular leak, profound hypoalbuminemia (1.7 g/dL), and secondary organ seeding."
+  },
+  {
+    "id": "INF-03",
+    "key": "heart",
+    "title": "Mitral Valve Infective Endocarditis (1.9 cm Vegetation)",
+    "anatomicalSite": "Heart - Mitral Valve Posterior Leaflet",
+    "coordinates": {
+      "x": -0.15,
+      "y": 1.65,
+      "z": 0.45
+    },
+    "cameraTarget": {
+      "x": -0.15,
+      "y": 1.65,
+      "z": 0.45
+    },
+    "cameraPosition": {
+      "x": -0.3,
+      "y": 1.7,
+      "z": 1.8
+    },
+    "pathogen": "Bacterial Colonization & Fibrin-Platelet Thrombus",
+    "antibiogram": "High-risk Cardioembolic Mass (Size: 1.9 cm x 0.8 cm)",
+    "severity": "EMERGENT - ULTRA HIGH EMBOLIC RISK",
+    "cultureDate": "2026-04-18 (Janakpuri Super Speciality Hospital)",
+    "documentLink": "\ud83d\udcc4 Documents/Janakpuri Super Speciality Hospital/Cardiology/Echocardiogram_2026-04-18.jpg",
+    "documentTitle": "2D Echocardiography Report (Janakpuri 2026-04-18)",
+    "description": "Large mobile pedunculated vegetation measuring 1.9 cm oscillating on the posterior mitral leaflet with eccentric moderate-to-severe mitral regurgitation (MR) and pulmonary hypertension (PASP 45 mmHg).",
+    "clinicalImpact": "Mechanical fragmentation of this large vegetation discharged septic emboli directly into systemic arterial circulation (carotid arteries \u2192 brain)."
+  },
+  {
+    "id": "INF-04",
+    "key": "brain",
+    "title": "Bilateral Cardioembolic Multi-Infarct Strokes",
+    "anatomicalSite": "Brain - Bilateral MCA, PCA & Cerebellar Hemispheres",
+    "coordinates": {
+      "x": -0.3,
+      "y": 3.55,
+      "z": 0.25
+    },
+    "cameraTarget": {
+      "x": 0.0,
+      "y": 3.6,
+      "z": 0.0
+    },
+    "cameraPosition": {
+      "x": 0.0,
+      "y": 3.8,
+      "z": 1.8
+    },
+    "pathogen": "Septic Thromboemboli (Dislodged from Mitral Vegetation)",
+    "antibiogram": "Acute Cortical / Subcortical Ischemia & Cytotoxic Edema",
+    "severity": "SEVERE NEUROLOGICAL INJURY",
+    "cultureDate": "2026-05-28 (Clinical Stroke Onset)",
+    "documentLink": "\ud83d\udcc4 Documents/Janakpuri Super Speciality Hospital/Cardiology/Echocardiogram_2026-04-18.jpg",
+    "documentTitle": "Cardioembolic Source Document (Echocardiogram)",
+    "description": "Multiple wedge-shaped non-contiguous cortical and subcortical ischemic infarctions affecting bilateral cerebral hemispheres, manifesting as acute altered mental state, dysphasia, and left-sided hemiparesis.",
+    "clinicalImpact": "Cerebral hypoperfusion and septic micro-abscess potential, severely impairing neurological and metabolic stability."
+  },
+  {
+    "id": "INF-05",
+    "key": "kidney",
+    "title": "Terminal Renal Failure (Diabetic CKD G5 + Septic ATN)",
+    "anatomicalSite": "Bilateral Kidneys (Renal Parenchyma & Glomeruli)",
+    "coordinates": {
+      "x": -0.55,
+      "y": 1.15,
+      "z": -0.2
+    },
+    "cameraTarget": {
+      "x": 0.0,
+      "y": 1.15,
+      "z": -0.1
+    },
+    "cameraPosition": {
+      "x": 0.0,
+      "y": 1.15,
+      "z": 2.0
+    },
+    "pathogen": "Diabetic Glomerulosclerosis + Septic Hypoperfusion Injury",
+    "antibiogram": "End-Stage Renal Disease (eGFR < 6 mL/min/1.73m\u00b2)",
+    "severity": "TERMINAL RENAL DYSFUNCTION - DIALYSIS DEPENDENT",
+    "cultureDate": "2026-04-29 (Biopsy confirmed GB Pant Hospital)",
+    "documentLink": "\ud83d\udcc4 Documents/GB Pant Hospital/Biopsy_Reports/Kidney_Biopsy_Report_2026-04-29.jpg",
+    "documentTitle": "Kidney Biopsy Report (GB Pant Hospital 2026-04-29)",
+    "description": "Nodular diabetic glomerulosclerosis (Kimmelstiel-Wilson nodules), marked interstitial fibrosis and tubular atrophy (IFTA > 80%). Creatinine peaked at 6.2 mg/dL with Blood Urea 184 mg/dL.",
+    "clinicalImpact": "Zero renal clearance capacity; complete fluid and metabolic retention; mandatory thrice-weekly maintenance hemodialysis."
+  }
+]

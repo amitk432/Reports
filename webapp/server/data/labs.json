@@ -1,0 +1,200 @@
+[
+  {
+    "category": "Renal Function (Kidney)",
+    "tests": [
+      {
+        "name": "Serum Creatinine",
+        "unit": "mg/dL",
+        "normal": "0.7 - 1.2",
+        "history": {
+          "2026-04-15": "4.8",
+          "2026-04-19": "5.2",
+          "2026-04-20": "5.1",
+          "2026-04-23": "5.4",
+          "2026-04-25": "5.6",
+          "2026-05-02": "4.2 (Post-HD)",
+          "2026-05-14": "5.8",
+          "2026-05-23": "6.2",
+          "2026-05-28": "5.1",
+          "2026-06-03": "3.8 (Post-HD)",
+          "2026-06-05": "4.5"
+        },
+        "status": "Critical",
+        "trend": "Severe CKD G5 with post-dialysis fluctuations"
+      },
+      {
+        "name": "Blood Urea",
+        "unit": "mg/dL",
+        "normal": "15 - 45",
+        "history": {
+          "2026-04-15": "142",
+          "2026-04-19": "168",
+          "2026-04-20": "155",
+          "2026-04-23": "172",
+          "2026-04-25": "184",
+          "2026-05-02": "98 (Post-HD)",
+          "2026-05-14": "165",
+          "2026-05-23": "178",
+          "2026-05-28": "150",
+          "2026-06-03": "112 (Post-HD)",
+          "2026-06-05": "138"
+        },
+        "status": "Critical",
+        "trend": "Marked uremic retention"
+      },
+      {
+        "name": "eGFR (CKD-EPI)",
+        "unit": "mL/min/1.73m\u00b2",
+        "normal": "> 90",
+        "history": {
+          "2026-04-15": "11",
+          "2026-04-19": "10",
+          "2026-04-20": "10",
+          "2026-04-23": "9",
+          "2026-04-25": "8",
+          "2026-05-02": "13",
+          "2026-05-14": "8",
+          "2026-05-23": "7",
+          "2026-05-28": "10",
+          "2026-06-03": "15",
+          "2026-06-05": "11"
+        },
+        "status": "Critical",
+        "trend": "Kidney Failure Stage 5 (< 15)"
+      },
+      {
+        "name": "Serum Potassium (K+)",
+        "unit": "mEq/L",
+        "normal": "3.5 - 5.0",
+        "history": {
+          "2026-04-15": "5.2",
+          "2026-04-19": "5.4",
+          "2026-04-20": "5.1",
+          "2026-04-25": "5.8",
+          "2026-05-02": "4.1",
+          "2026-05-14": "5.3",
+          "2026-05-23": "5.6",
+          "2026-05-28": "4.9",
+          "2026-06-03": "4.4",
+          "2026-06-05": "4.8"
+        },
+        "status": "Alert",
+        "trend": "Recurrent hyperkalemia mitigated by HD"
+      }
+    ]
+  },
+  {
+    "category": "Sepsis & Inflammatory Markers",
+    "tests": [
+      {
+        "name": "Procalcitonin (PCT)",
+        "unit": "ng/mL",
+        "normal": "< 0.05",
+        "history": {
+          "2026-04-15": "0.45",
+          "2026-04-19": "1.80",
+          "2026-05-02": "2.40",
+          "2026-05-23": "11.16",
+          "2026-05-28": "7.20",
+          "2026-06-03": "3.10",
+          "2026-06-05": "2.80"
+        },
+        "status": "Critical",
+        "trend": "Explosive spike to 11.16 ng/mL confirming severe bacterial septicemia"
+      },
+      {
+        "name": "C-Reactive Protein (CRP)",
+        "unit": "mg/L",
+        "normal": "< 5.0",
+        "history": {
+          "2026-04-15": "24.0",
+          "2026-04-19": "42.0",
+          "2026-05-02": "58.0",
+          "2026-05-23": "88.0",
+          "2026-05-28": "64.0",
+          "2026-06-03": "38.0",
+          "2026-06-05": "32.0"
+        },
+        "status": "Critical",
+        "trend": "Intense systemic inflammation"
+      }
+    ]
+  },
+  {
+    "category": "Hematology (Complete Blood Count)",
+    "tests": [
+      {
+        "name": "Hemoglobin (Hb)",
+        "unit": "g/dL",
+        "normal": "13.0 - 17.0",
+        "history": {
+          "2026-04-15": "8.4",
+          "2026-04-19": "7.9",
+          "2026-04-20": "7.6",
+          "2026-04-23": "7.2",
+          "2026-04-25": "6.8",
+          "2026-05-02": "8.2 (Post-PRBC)",
+          "2026-05-14": "7.4",
+          "2026-05-23": "6.3",
+          "2026-05-28": "7.8 (Post-PRBC)",
+          "2026-06-03": "8.1",
+          "2026-06-05": "8.3"
+        },
+        "status": "Critical",
+        "trend": "Refractory normocytic normochromic anemia requiring repeated transfusions"
+      },
+      {
+        "name": "Total Leukocyte Count (TLC)",
+        "unit": "/\u00b5L",
+        "normal": "4,000 - 11,000",
+        "history": {
+          "2026-04-15": "11,400",
+          "2026-04-19": "13,800",
+          "2026-04-20": "14,200",
+          "2026-04-25": "15,600",
+          "2026-05-02": "12,400",
+          "2026-05-14": "14,900",
+          "2026-05-23": "18,200",
+          "2026-05-28": "14,100",
+          "2026-06-03": "11,800",
+          "2026-06-05": "10,900"
+        },
+        "status": "Critical",
+        "trend": "Severe neutrophilic leukocytosis peaking at 18,200"
+      }
+    ]
+  },
+  {
+    "category": "Cardiology & Nutritional Biomarkers",
+    "tests": [
+      {
+        "name": "Troponin-I",
+        "unit": "ng/mL",
+        "normal": "< 0.04",
+        "history": {
+          "2026-04-18": "0.14",
+          "2026-05-23": "0.19",
+          "2026-05-28": "0.12"
+        },
+        "status": "Alert",
+        "trend": "Myocardial stress secondary to endocarditis and sepsis"
+      },
+      {
+        "name": "Serum Albumin",
+        "unit": "g/dL",
+        "normal": "3.5 - 5.0",
+        "history": {
+          "2026-04-15": "2.6",
+          "2026-04-19": "2.3",
+          "2026-05-02": "2.0",
+          "2026-05-23": "1.7",
+          "2026-05-28": "2.1",
+          "2026-06-03": "2.4",
+          "2026-06-05": "2.5"
+        },
+        "status": "Critical",
+        "trend": "Profound hypoalbuminemia driven by septic capillary leak and nephrotic losses"
+      }
+    ]
+  }
+]
