@@ -4,6 +4,11 @@ All of Ram Kewal Mahato's medical reports, renamed and filed by hospital, plus a
 
 **Live app:** https://amitk432.github.io/Reports/
 
+GitHub Pages must use **Settings → Pages → Build and deployment → Source: GitHub Actions**.
+The deployment workflow builds `app/dist` and publishes that folder. Publishing from
+the repository's `main` branch root renders the README and can overwrite the app.
+The workflow checks this setting before deployment.
+
 ## Folder structure
 
 ```
@@ -27,15 +32,15 @@ Categories: `Lab_Reports`, `Microbiology`, `Radiology`, `Cardiology`, `Pathology
 
 ```bash
 npm --prefix app install
-npm run dev        # http://localhost:3000
-npm run build      # checks the index, then builds app/dist
+npm --prefix app run dev        # http://localhost:3000
+npm --prefix app run build      # checks the index, then builds app/dist
 ```
 
 ## Adding a new report
 
 1. Save it as `records/<Hospital>/<Category>/<Type>_<YYYY-MM-DD>.jpg`.
 2. Add an entry to `records/index.json` (copy an existing one; give it the next `R-` id).
-3. `npm run check` confirms every file is indexed.
+3. `npm --prefix app run check` confirms every file is indexed.
 
 Values in the index are transcribed from photographs — confirm against the original before acting on them.
 

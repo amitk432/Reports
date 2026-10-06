@@ -22,6 +22,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Verify GitHub Actions publishing source
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          pages_build_type=$(gh api "repos/${GITHUB_REPOSITORY}/pages" --jq '.build_type')
+          if [ "$pages_build_type" != "workflow" ]; then
+            echo "::error::Set Settings > Pages > Build and deployment > Source to GitHub Actions. Branch publishing can overwrite the app with the README."
+            exit 1
+          fi
       - uses: actions/setup-node@v4
         with:
           node-version: 22
