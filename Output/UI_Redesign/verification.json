@@ -1,0 +1,17 @@
+{
+  "base": "http://127.0.0.1:3011",
+  "checks": [
+    "Current BLK-Max ICU and ventilator status is displayed separately from historical medications",
+    "Five focused diagrams; nine MRI regions; location, possible cause, process animation and dated progression controls work",
+    "3D marker opens the source report and downloads the original",
+    "Focused organ switching, rotation, drag, and zoom controls work",
+    "Family area notes persist across reload and can be removed",
+    "Both new BLK-Max MRI pages are searchable and the original photograph loads",
+    "Report search, pagination, empty state, filters, and Escape close work",
+    "Timeline shows every report and milestone, with hospital/content/search filters",
+    "Lab trends and all 19 prepared summaries remain accessible",
+    "Overview, report viewer, library, and timeline fit a 390px mobile viewport",
+    "No uncaught browser errors"
+  ],
+  "errors": []
+}

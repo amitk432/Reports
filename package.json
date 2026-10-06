@@ -1,12 +1,9 @@
 {
-  "name": "papas-clinical-reports-monorepo",
-  "version": "1.0.0",
-  "description": "Papa's Medical Clinical Dossier & 3D Interactive Web Application with Full-Stack Backend & Frontend Package",
+  "name": "papa-medical-records-root",
+  "private": true,
   "scripts": {
-    "dev": "npm --prefix webapp run dev",
-    "server": "npm --prefix webapp run server",
-    "client": "npm --prefix webapp run client",
-    "build": "npm --prefix webapp run build",
-    "start": "npm --prefix webapp start"
+    "dev": "npm --prefix app run dev",
+    "build": "npm --prefix app run build",
+    "check": "npm --prefix app run check"
   }
 }

@@ -1,0 +1,20 @@
+{
+  "filedOn": "2026-10-07",
+  "hospital": "BLK-Max Hospital",
+  "studyDate": "2026-10-06",
+  "note": "Two pages of one MRI Brain Plain report. Original bytes retained.",
+  "files": [
+    {
+      "originalName": "WhatsApp Image 2026-10-06 at 22.37.03.jpeg",
+      "path": "BLK-Max Hospital/Radiology/MRI_Brain_Plain_2026-10-06_p1.jpeg",
+      "sha256": "db0b0147dd838ddd6c0e1c7cd103c62d48849b34624b61aede1863a6ed032f77",
+      "sizeBytes": 2043556
+    },
+    {
+      "originalName": "WhatsApp Image 2026-10-06 at 22.37.04.jpeg",
+      "path": "BLK-Max Hospital/Radiology/MRI_Brain_Plain_2026-10-06_p2.jpeg",
+      "sha256": "9e53a3f2b875686cc934a89a8266e6036f3264b1ed7ebfc110a323a517bc335a",
+      "sizeBytes": 1852897
+    }
+  ]
+}
